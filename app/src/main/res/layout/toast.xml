@@ -7,22 +7,23 @@
     android:gravity="center_horizontal">
 
     <ImageView
-        android:layout_width="150sp"
-        android:layout_height="150sp"
+        android:layout_width="70sp"
+        android:layout_height="70sp"
         android:src="@drawable/poketmon"
         />
 
     <TextView
+        android:id="@+id/text_toast"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="성철을 취소해따."
-        android:textSize="80sp"
+        android:textSize="50sp"
         android:textColor="#ffffff"
         android:textStyle="bold"/>
 
     <ImageView
-        android:layout_width="150sp"
-        android:layout_height="150sp"
+        android:layout_width="70sp"
+        android:layout_height="70sp"
         android:src="@drawable/poketmon"
         />
 
